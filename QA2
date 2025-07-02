@@ -1,1 +1,6 @@
 only automation BDD cucumber.
+public void M1()
+{
+System.out.println("good morning")
+
+}
